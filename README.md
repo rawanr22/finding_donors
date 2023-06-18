@@ -1,2 +1,2 @@
 # finding_donors
-A project for the Machine Learning Nanodegree from Udacity.
+A Machine Learning project for the Machine Learning Nanodegree from Udacity.
